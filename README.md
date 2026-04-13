@@ -20,7 +20,7 @@ When you click anywhere on screen, an expanding ring animation appears at the cu
 
 ## Screenshots
 
-> Add screenshots here once the app is running
+<img src="Screenshots/settings-window.png" width="400" alt="TapRippleOverlay settings window">
 
 ---
 
